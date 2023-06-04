@@ -1,0 +1,14 @@
+{
+  "logoText": "The Seattle Public library",
+  "username": "Henry",
+  "pin": "1fr8",
+  "shortUsername": "M",
+  "shortPin": "3",
+  "longUsername": "Hfiiwersdfjsdfassiwerirjajgakgjakgjdsklfjsdaklfjklja",
+  "longPin": "43332423djfdafjaddajfajfaja4548957839782gsgfsgssgfdgsfdgs",
+  "popupmsg1": "The username or PIN is incorrect. Please try again",
+  "popupmsg2": "You have exceeded the maximum number of failed log in attempts. Please try again in 1 hour",
+  "barcode": "23QB11302100894",
+  "confirmPopup": "Help is on its way! If you do not receive an email please contact the library directly to retrieve your PIN/password.",
+  "recentStaffLists": "Recent Staff Lists"
+}

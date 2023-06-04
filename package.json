@@ -1,0 +1,21 @@
+{
+  "name": "seattle_bibbliocommons",
+  "version": "1.0.0",
+  "description": "For the login demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehrdad Hassani",
+  "license": "ISC",
+  "devdependencies": {
+    "cypress": "^12.13.0"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^17.2.0",
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "cypress": "^12.13.0",
+    "cypress-get-data-cy": "^1.1.1",
+    "cypress-iframe": "^1.0.1"
+  }
+}
